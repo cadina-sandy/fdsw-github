@@ -37,3 +37,8 @@ body {
   }
 
 }
+/* estilos de sandy */
+.navbar-brand img {
+  width: 50px; /* Puedes probar con 60px o 70px si lo quieres un poquito más grande */
+  height: auto;
+}
